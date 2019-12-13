@@ -162,6 +162,13 @@ header {
 				}
 			}
 		}
+		
+		#page_title {
+			h1.heading,
+			h2.subheading {
+				text-shadow: 1px 1px 2px #000;
+			}
+		}
 	}
 	
 	&#header_home {
@@ -582,7 +589,7 @@ iframe#wufooFormpx41t161m3c8w2 {
 		
 		&#header_page_mobile {
 			background: url('../img/page_mobile.jpg') no-repeat;
-			background-size: cover;
+			background-size: 100%;
 			background-attachment: fixed;	
 		}
 		
@@ -607,13 +614,13 @@ iframe#wufooFormpx41t161m3c8w2 {
 	header {
 		&#header_home_mobile {
 			background: url('../img/home_mobile.jpg') no-repeat;
-			background-size: cover;
+			background-size: 100%;
 			background-attachment: fixed;	
 		}
 		
 		&#header_page_mobile {
 			background: url('../img/page_mobile.jpg') no-repeat;
-			background-size: cover;
+			background-size: 100%;
 			background-attachment: fixed;	
 		}
 		
@@ -638,13 +645,13 @@ iframe#wufooFormpx41t161m3c8w2 {
 	header {
 		&#header_home_mobile {
 			background: url('../img/home_mobile.jpg') no-repeat;
-			background-size: cover;
+			background-size: 100%;
 			background-attachment: fixed;	
 		}
 		
 		&#header_page_mobile {
 			background: url('../img/page_mobile.jpg') no-repeat;
-			background-size: cover;
+			background-size: 100%;
 			background-attachment: fixed;	
 		}
 		

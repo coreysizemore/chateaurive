@@ -6,7 +6,7 @@ body.login {
 
 .login h1 a:link,
 .login h1 a:visited {
-  	background-image: url('../../img/logo_login_page.png');
+  	background-image: url('../../img/logo_black.png');
   	background-size: 80%;
   	width: 100%;
   	height: 100px;
@@ -27,7 +27,7 @@ body.login {
 }
 
 #loginform .submit input[type="submit"] {
-	background: #4D70A4;
+	background: #000000;
 	border: none;
 	box-shadow: none;
 	color: #ffffff;
@@ -45,7 +45,7 @@ body.login {
 .login #backtoblog a:active,
 .login #nav a:hover,
 .login #nav a:active {
-	color: #4D70A4;
+	color: #000000;
 }
 
 .login #login_error, .login .message {
