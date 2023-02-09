@@ -64,7 +64,7 @@ $bodyfont: #888888;
 				li {
 					a:link,
 					a:visited {
-						color: $colortwo;
+						color: $lightfont;
 					}
 				}
 			}
@@ -535,6 +535,23 @@ footer {
 		vertical-align: middle;
 	}
 }
+
+
+/* packages */
+
+.packages-wrapper {
+	a:link,
+	a:visited {
+		display: inline-block;
+		width: 50%;
+		
+		img {
+			height: auto;
+			width: 100%;
+		}
+	}
+}
+
 
 /* wufoo */
 
